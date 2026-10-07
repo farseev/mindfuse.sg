@@ -1,0 +1,50 @@
+# Mindfuse
+
+> Mindfuse is a Singapore-based consumer-psychology and cultural-insight consultancy for Southeast Asian markets. It helps brands understand personas, tensions, cultural codes and Gen Z audiences through tension studies. Persona and tension discovery runs on perspective studies from its technology partner SOMIN, an AI audience-research platform, with Mindfuse researchers adding cultural interpretation and validation with real people.
+
+- Website: https://mindfuse.sg/
+- Contact: ask@mindfuse.sg
+- Based in: Singapore
+- Technology partner: SOMIN (https://somin.ai/), an AI audience-research and creative-intelligence platform
+
+## What we do
+- Tension studies: We find what your audience is torn between and when it matters. Each tension comes with evidence, moments and an angle your brand can own.
+- Persona discovery: Three to five personas built from real conversation, defined by situation and voice. No stock photos, no ethnic shortcuts.
+- Cultural code decoding: We interpret face, kiasu, honesty norms and festive codes with people who live them. You get tone guidance, not clichés.
+- Gen Z segmentation: Segments built on the tensions young people negotiate, from hustle versus rest to family duty versus self-direction. Linked to moments and platforms.
+- Festive calendar planning: Codes and tensions for each celebration, read ahead of the season. Respectful ideas, co-created with communities.
+- Message and tone audits: We test claims and copy against cultural registers across markets. Honest content, delivered with care.
+
+## Key pages
+- [Home](https://mindfuse.sg/): Mindfuse is a Singapore consumer-psychology and cultural-insight consultancy finding the personas and tensions that move SEA audiences.
+- [Blog](https://mindfuse.sg/blog/): ten articles
+- [Brand guidelines](https://mindfuse.sg/brand/)
+
+## Articles
+- [Honesty vs kindness: the cultural nuance SEA brands miss](https://mindfuse.sg/blog/honesty-vs-kindness-singapore-marketing/): Why Singapore and SEA audiences weigh honesty against kindness differently, and how brands can say true things without causing loss of face.
+- [Kiasu, reframed: loss aversion as a design brief](https://mindfuse.sg/blog/kiasu-reframed-loss-aversion-singapore/): Kiasu is often used as a punchline. For marketers it is a precise signal of loss aversion and care. Here is how to design for it respectfully.
+- [Face and feedback: why SEA customers stay quiet](https://mindfuse.sg/blog/face-and-feedback-why-sea-customers-stay-quiet/): Low complaint rates in SEA rarely mean happy customers. How face shapes feedback, and how brands can design channels people will actually use.
+- [Gen Z in Singapore: segment by tension, not by age](https://mindfuse.sg/blog/gen-z-segmentation-singapore-beyond-age/): Treating Gen Z as one segment hides the tensions that drive behaviour. A practical way to segment young SEA audiences by situation and motive.
+- [Singapore's festive calendar: read the codes, not the clichés](https://mindfuse.sg/blog/festive-calendar-cultural-codes-singapore/): Chinese New Year, Hari Raya, Deepavali and Christmas each carry distinct cultural codes. How to plan festive marketing that feels respectful, not recycled.
+- [Personas vs tensions: which one actually drives decisions?](https://mindfuse.sg/blog/personas-vs-tensions-which-drives-decisions/): Personas tell you who; tensions tell you why people move. How to combine both into audience insight that creative and media teams can act on.
+- [Authenticity thrives where insecurity ebbs: a note to marketers](https://mindfuse.sg/blog/authenticity-insecurity-marketers-imposter-syndrome/): Imposter syndrome pushes marketers toward borrowed trends and vanity metrics. Evidence and collaboration build the confidence authentic work needs.
+- [Multicultural nuance without stereotypes: a working method](https://mindfuse.sg/blog/multicultural-nuance-without-stereotypes/): How to market to Singapore's multicultural audiences with real nuance: segment by situation, involve communities and avoid lazy cultural shortcuts.
+- [Who pays? Payment norms and group dilemmas in SEA](https://mindfuse.sg/blog/payment-norms-group-dilemmas-sea/): Splitting bills, treating elders and group-travel money tensions reveal how SEA audiences balance fairness and face. What brands can learn from them.
+- [What is a perspective study? AI audience research, explained](https://mindfuse.sg/blog/perspective-studies-ai-audience-research-sea/): How Mindfuse uses SOMIN perspective studies to find personas and tensions in SEA conversations, and where human cultural judgement takes over.
+
+## FAQ
+- **What is a tension study?** A tension study is Mindfuse's core engagement. It identifies what your audience is torn between, such as honesty versus kindness or thrift versus treat, when those tensions become urgent, and how your brand can help. It combines a SOMIN perspective study with cultural interpretation and validation sessions.
+- **How is Mindfuse different from a survey or focus group?** We start from real public conversation, where people are often more candid than in research settings, then validate with people. Surveys remain useful for sizing; we focus on the motives and tensions surveys tend to miss in face-conscious cultures.
+- **What role does SOMIN play?** SOMIN, an AI audience-research platform, is our technology partner. Its perspective studies read and cluster conversations into personas, tensions and moments, with every finding traceable to source posts. Our team interprets and validates.
+- **Do you segment audiences by ethnicity?** No. We segment by situation and tension, then layer in cultural specifics with people from each community. This avoids stereotypes while respecting real differences in language, ritual and household norms.
+- **Which markets do you cover?** We are based in Singapore and work across Southeast Asia, including Malaysia, Indonesia, Thailand and the Philippines, with native-speaker review for multilingual and code-switched material.
+- **How do I start?** Email ask@mindfuse.sg with the decision you need to make and the audience involved. We will reply with a scoping note and suggest whether a tension study, a persona refresh or a tone audit fits best.
+
+## Sister companies
+- [Marketing Mondays](https://mondays.marketing/): One real signal, decoded every Monday
+- [Somonitor](https://somonitor.ai/): Always-on listening you can check
+- [Trafix](https://trafix.app/): Paid traffic, measured in profit
+- [AgentC](https://agentc.marketing/): Agents play. Humans conduct.
+- [GPT3 Marketing](https://gpt3.marketing/): Six years of AI content craft
+- [GPT5 Marketing](https://gpt5.marketing/): Marketing redesigned for reasoning models
+- [SNMRush](https://snmrush.com/): Search, Neural answers, Mentions. One rush.
