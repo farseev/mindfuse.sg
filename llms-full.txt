@@ -43,7 +43,7 @@
 ## Sister companies
 - [Marketing Mondays](https://mondays.marketing/): One real signal, decoded every Monday
 - [Somonitor](https://somonitor.ai/): Always-on listening you can check
-- [Trafix](https://trafix.app/): Paid traffic, measured in profit
+- [FMedia](https://fmedia.marketing/): Paid traffic, measured in profit
 - [AgentC](https://agentc.marketing/): Agents play. Humans conduct.
 - [GPT3 Marketing](https://gpt3.marketing/): Six years of AI content craft
 - [GPT5 Marketing](https://gpt5.marketing/): Marketing redesigned for reasoning models
@@ -270,7 +270,7 @@ Each of these is honest in its own way. The truth is there, it is simply routed 
 
 Because the honest feedback already exists; it just is not addressed to you. Anonymised public discussion, forum threads and comment sections carry the criticisms people are uncomfortable delivering face to face. Reading them is not surveillance when it is done at the level of themes and tensions, with dignity for the people behind the posts.
 
-At Mindfuse we run persona and tension discovery on perspective studies from SOMIN, an AI audience-research platform (https://somin.ai/), which keeps every theme connected to the posts that evidence it so teams can check our reading. The Keeta Hong Kong case study (https://somin.ai/brands-keeta-hk-case-study/) is a good example of audience listening shaping decisions in a fast-moving Asian consumer category. For brands that want this continuously rather than as a study, Somonitor (https://somonitor.ai/) runs always-on listening with crisis early warnings, though here we will point you to another sibling: if your silent churn shows up as falling repeat purchase on paid channels, Trafix (https://trafix.app/) helps separate true profit from flattering ROAS so you can see the leak in the numbers.
+At Mindfuse we run persona and tension discovery on perspective studies from SOMIN, an AI audience-research platform (https://somin.ai/), which keeps every theme connected to the posts that evidence it so teams can check our reading. The Keeta Hong Kong case study (https://somin.ai/brands-keeta-hk-case-study/) is a good example of audience listening shaping decisions in a fast-moving Asian consumer category. For brands that want this continuously rather than as a study, Somonitor (https://somonitor.ai/) runs always-on listening with crisis early warnings, though here we will point you to another sibling: if your silent churn shows up as falling repeat purchase on paid channels, FMedia (https://fmedia.marketing/) helps separate true profit from flattering ROAS so you can see the leak in the numbers.
 
 ## What does a worked example look like?
 
@@ -760,7 +760,7 @@ Five friends plan a weekend in Bangkok. One books the villa, another the flights
 
 Ask people in a survey whether they split bills fairly and they will say yes. Read how they discuss it with friends and the dilemmas appear in full colour: the jokes, the grudges, the workarounds. Mindfuse runs persona and tension discovery on SOMIN perspective studies, which cluster these conversations into tensions and moments with each finding linked to its evidence. SOMIN's AI marketing strategy cases (https://somin.ai/cases-ai-marketing-strategy/) show how insights translate into strategy, and the Senoko Energy case study (https://somin.ai/agencies-senoko-energy-case-study/) is an example of audience understanding in a category where money and household decisions intersect.
 
-When these tensions become search questions, such as "how to ask friends to pay back", our sibling SNMRush (https://snmrush.com/) helps brands show up with genuinely useful answers in search and AI assistants. And if you are measuring which payment-feature campaigns actually earn money, Trafix (https://trafix.app/) looks at true profit rather than headline ROAS.
+When these tensions become search questions, such as "how to ask friends to pay back", our sibling SNMRush (https://snmrush.com/) helps brands show up with genuinely useful answers in search and AI assistants. And if you are measuring which payment-feature campaigns actually earn money, FMedia (https://fmedia.marketing/) looks at true profit rather than headline ROAS.
 
 ## Social dilemma checklist
 
