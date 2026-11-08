@@ -37,6 +37,7 @@
 - [简体中文](https://mindfuse.sg/zh-hans/) · [blog](https://mindfuse.sg/zh-hans/blog/) (10 articles translated)
 - [繁體中文](https://mindfuse.sg/zh-hant/) · [blog](https://mindfuse.sg/zh-hant/blog/) (10 articles translated)
 - [日本語](https://mindfuse.sg/ja/) · [blog](https://mindfuse.sg/ja/blog/) (10 articles translated)
+- [한국어](https://mindfuse.sg/ko/) · [blog](https://mindfuse.sg/ko/blog/) (10 articles translated)
 
 ## FAQ
 - **What is a tension study?** A tension study is Mindfuse's core engagement. It identifies what your audience is torn between, such as honesty versus kindness or thrift versus treat, when those tensions become urgent, and how your brand can help. It combines a SOMIN perspective study with cultural interpretation and validation sessions.
