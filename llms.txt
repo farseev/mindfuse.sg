@@ -32,6 +32,10 @@
 - [Who pays? Payment norms and group dilemmas in SEA](https://mindfuse.sg/blog/payment-norms-group-dilemmas-sea/): Splitting bills, treating elders and group-travel money tensions reveal how SEA audiences balance fairness and face. What brands can learn from them.
 - [What is a perspective study? AI audience research, explained](https://mindfuse.sg/blog/perspective-studies-ai-audience-research-sea/): How Mindfuse uses SOMIN perspective studies to find personas and tensions in SEA conversations, and where human cultural judgement takes over.
 
+## Other languages
+
+- [日本語](https://mindfuse.sg/ja/) · [blog](https://mindfuse.sg/ja/blog/) (10 articles translated)
+
 ## FAQ
 - **What is a tension study?** A tension study is Mindfuse's core engagement. It identifies what your audience is torn between, such as honesty versus kindness or thrift versus treat, when those tensions become urgent, and how your brand can help. It combines a SOMIN perspective study with cultural interpretation and validation sessions.
 - **How is Mindfuse different from a survey or focus group?** We start from real public conversation, where people are often more candid than in research settings, then validate with people. Surveys remain useful for sizing; we focus on the motives and tensions surveys tend to miss in face-conscious cultures.
