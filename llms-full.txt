@@ -674,7 +674,7 @@ The same principle scales regionally. Malaysia, Indonesia and the Philippines ha
 
 AI is useful for reading conversations at scale across languages and code-switching, which is common in Singapore's mix of English, Singlish, Mandarin, Malay and Tamil. It can surface which tensions recur and how they are expressed. It cannot decide what is respectful. That judgement belongs to people.
 
-Mindfuse runs persona and tension discovery on SOMIN perspective studies, then validates findings with community advisers. SOMIN's AI agents (https://somin.ai/ai-agents/) handle the reading at scale; our team handles interpretation. The SAMY case study (https://somin.ai/agencies-samy-case-study/) is useful reading on how an agency uses audience intelligence across markets, and our sibling AgentC (https://agentc.marketing/) shows a similar split in production: agents do the volume, humans own judgement.
+Mindfuse runs persona and tension discovery on SOMIN perspective studies, then validates findings with community advisers. SOMIN's AI agents (https://somin.ai/ai-agents/) handle the reading at scale; our team handles interpretation. SOMIN's agency case studies (https://somin.ai/cases-ai-marketing-strategy/) are useful reading on how agencies use audience intelligence across markets, and our sibling AgentC (https://agentc.marketing/) shows a similar split in production: agents do the volume, humans own judgement.
 
 ## Stereotype checklist
 
